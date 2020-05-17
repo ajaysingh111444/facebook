@@ -8,8 +8,9 @@ Useful facebook scripts
 2. Cancel all new friend request 
 2. Cancel all sent friend request 
 
+
 ACCEPT ALL NEW FRIEND REQUEST:-
-  1. Open this URL in Chrome Browser
+ 1. Open this URL in Chrome Browser
   
   2. https://m.facebook.com/friends/center/requests/?rfj&no_hist=1
   
@@ -19,7 +20,7 @@ ACCEPT ALL NEW FRIEND REQUEST:-
   
   
 CANCEL ALL NEW FRIEND REQUEST:-
-  1. Open this URL in Chrome Browser
+ 1. Open this URL in Chrome Browser
   
   2. https://m.facebook.com/friends/center/requests/?rfj&no_hist=1
   
@@ -30,7 +31,7 @@ CANCEL ALL NEW FRIEND REQUEST:-
   
   
 CANCEL ALL SENT FRIEND REQUEST:-
-  1. Open this URL in Chrome Browser
+ 1. Open this URL in Chrome Browser
   
   2. https://m.facebook.com/friends/center/requests/outgoing
   
