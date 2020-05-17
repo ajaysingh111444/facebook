@@ -1,7 +1,5 @@
 # Facebook
-Facebook Request Actions(Accept/Delete/Cancel)
-
-Useful facebook scripts
+Useful Scripts For Facebook Request Actions(Accept/Delete/Cancel)
 
 1. Accept all new friend request 
 2. Cancel all new friend request 
