@@ -1,6 +1,5 @@
 # Facebook
 Facebook Request Actions(Accept/Delete/Cancel)
-#How to delete all LinkedIn messages at once
 
 Useful facebook scripts
 
